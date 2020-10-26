@@ -4,7 +4,7 @@ import React from 'react';
 function ProfilPhoto() {
   return (
     <div className="ProfilPhoto">
-      <img src='/logo512.png'/>
+      <img src='/logo512.png' alt='ProfilPhoto'/>
     </div>
   );
 }
